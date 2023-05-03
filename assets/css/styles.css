@@ -115,5 +115,10 @@ td > input{
     
 }
 
+.btn-container{
+    display: flex;
+    margin: 0 auto;
+    width: 250px;
 
+}
 
